@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.6-local registry.cn-hangzhou.aliyuncs.com/docker-xyf/dify-plugin-daemon:0.0.6-local
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/docker-xyf/redis:6-alpine
